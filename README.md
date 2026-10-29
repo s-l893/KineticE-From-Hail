@@ -59,21 +59,21 @@ The design placed **1st overall in prototype design** at the design showcase, ou
   <tr>
     <td align="center">
       <img src="images/1768196033862.jfif" width="400" ><br>
-      <em>Caption 1</em>
+      <em></em>
     </td>
     <td align="center">
       <img src="images/1768195972086.jfif" width="400" ><br>
-      <em>Caption 2</em>
+      <em></em>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="images/1768195995063.jfif" width="400" ><br>
-      <em>Caption 3</em>
+      <em></em>
     </td>
     <td align="center">
       <img src="images/9k.png" width="400" ><br>
-      <em>Caption 4</em>
+      <em></em>
     </td>
   </tr>
 </table>
